@@ -1,1 +1,1 @@
-Collection of AI players used in the CodeCup competion
+Collection of AI players used in the CodeCup competitions
